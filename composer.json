@@ -1,0 +1,19 @@
+{
+  "name": "bupind/phone-number-validator",
+  "description": "Phone Number Validator for PHP",
+  "keywords": [
+    "phonenumber validator"
+  ],
+  "type": "helper",
+  "homepage": "https://github.com/bupind/phone-number-validator",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "bupind",
+      "homepage": "https://github.com/bupind"
+    }
+  ],
+  "require": {
+    "php": "^5.4|^7.0|^8.0"
+  }
+}
